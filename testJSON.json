@@ -1,5 +1,5 @@
-{
-    "144": {
+[
+    {
         "course_id": 144,
         "long_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
         "short_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
@@ -27,13 +27,13 @@
         }
         ]
     },
-    "557": {
+    {
         "course_id": 557,
         "long_name": "30 Hours",
         "short_name": "30 Hours",
         "classes": []
     },
-    "147": {
+    {
         "course_id": 147,
         "long_name": "GT Update: Differentiation for Gifted Learners",
         "short_name": "GT Update: Differentiation for Gifted Learners",
@@ -82,7 +82,7 @@
         }
         ]
     },
-    "132": {
+    {
         "course_id": 132,
         "long_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
         "short_name": "GT - 30 Hours: Nature & Needs of Gifted",
@@ -131,7 +131,7 @@
         }
         ]
     },
-    "553": {
+    {
         "course_id": 553,
         "long_name": "GT Update: Parent Night",
         "short_name": "GT Update: Parent Night",
@@ -159,7 +159,7 @@
         }
         ]
     },
-    "141": {
+    {
         "course_id": 141,
         "long_name": "GT - 30 Hours: Identification & Assessment of Gifted Learners",
         "short_name": "GT - 30 Hours: Identification of Gifted",
@@ -208,7 +208,7 @@
         }
         ]
     },
-    "142": {
+    {
         "course_id": 142,
         "long_name": "GT - 30 Hours: Differentiation for Gifted Learners",
         "short_name": "GT - 30 Hours: Differentiation for Gifted",
@@ -257,7 +257,7 @@
         }
         ]
     },
-    "143": {
+    {
         "course_id": 143,
         "long_name": "GT - 30 Hours: Creativity & Critical Thinking Strategies for Gifted Learners",
         "short_name": "GT - 30 Hours: Creativity & Critical Thinking",
@@ -285,4 +285,4 @@
         }
         ]
     }
-}
+]
