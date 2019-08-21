@@ -4,27 +4,27 @@
         "long_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
         "short_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
         "classes": [
-        {
-        "class_id": 184,
-        "class_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
-        "start_date": "2019-06-18T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-18T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Tuesday"
-        }
-        ],
-        "end_date": "2019-06-18T05:00:00.000Z"
-        }
+            {
+                "class_id": 184,
+                "class_name": "GT - 30 Hours: Depth & Complexity for Gifted Learners",
+                "start_date": "2019-06-18T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-18T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Tuesday"
+                    }
+                ],
+                "end_date": "2019-06-18T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -38,48 +38,48 @@
         "long_name": "GT Update: Differentiation for Gifted Learners",
         "short_name": "GT Update: Differentiation for Gifted Learners",
         "classes": [
-        {
-        "class_id": 195,
-        "class_name": "GT Update: Differentiating Instruction with Menus",
-        "start_date": "2019-06-12T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-12T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Wednesday"
-        }
-        ],
-        "end_date": "2019-06-12T05:00:00.000Z"
-        },
-        {
-        "class_id": 194,
-        "class_name": "GT Update: Differentiation with the CAP Process and Depth & Complexity",
-        "start_date": "2019-06-13T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-13T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Thursday"
-        }
-        ],
-        "end_date": "2019-06-13T05:00:00.000Z"
-        }
+            {
+                "class_id": 195,
+                "class_name": "GT Update: Differentiating Instruction with Menus",
+                "start_date": "2019-06-12T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-12T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Wednesday"
+                    }
+                ],
+                "end_date": "2019-06-12T05:00:00.000Z"
+            },
+            {
+                "class_id": 194,
+                "class_name": "GT Update: Differentiation with the CAP Process and Depth & Complexity",
+                "start_date": "2019-06-13T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-13T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Thursday"
+                    }
+                ],
+                "end_date": "2019-06-13T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -87,48 +87,48 @@
         "long_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
         "short_name": "GT - 30 Hours: Nature & Needs of Gifted",
         "classes": [
-        {
-        "class_id": 189,
-        "class_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
-        "start_date": "2019-06-17T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-17T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Monday"
-        }
-        ],
-        "end_date": "2019-06-17T05:00:00.000Z"
-        },
-        {
-        "class_id": 190,
-        "class_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
-        "start_date": "2019-07-17T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-07-17T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Wednesday"
-        }
-        ],
-        "end_date": "2019-07-17T05:00:00.000Z"
-        }
+            {
+                "class_id": 189,
+                "class_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
+                "start_date": "2019-06-17T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-17T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Monday"
+                    }
+                ],
+                "end_date": "2019-06-17T05:00:00.000Z"
+            },
+            {
+                "class_id": 190,
+                "class_name": "GT - 30 Hours: Nature & Needs of Gifted Learners",
+                "start_date": "2019-07-17T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-07-17T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Wednesday"
+                    }
+                ],
+                "end_date": "2019-07-17T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -136,27 +136,27 @@
         "long_name": "GT Update: Parent Night",
         "short_name": "GT Update: Parent Night",
         "classes": [
-        {
-        "class_id": 868,
-        "class_name": "Inside the Brainiac Brain",
-        "start_date": "2019-03-21T05:00:00.000Z",
-        "end_time": "1970-01-02T01:30:00.000Z",
-        "start_time": "1970-01-02T00:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-02T00:30:00.000Z",
-        "end_time": "1970-01-02T01:30:00.000Z"
-        }
-        ],
-        "date": "2019-03-21T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Thursday"
-        }
-        ],
-        "end_date": "2019-03-21T05:00:00.000Z"
-        }
+            {
+                "class_id": 868,
+                "class_name": "Inside the Brainiac Brain",
+                "start_date": "2019-03-21T05:00:00.000Z",
+                "end_time": "1970-01-02T01:30:00.000Z",
+                "start_time": "1970-01-02T00:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-02T00:30:00.000Z",
+                                "end_time": "1970-01-02T01:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-03-21T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Thursday"
+                    }
+                ],
+                "end_date": "2019-03-21T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -164,48 +164,48 @@
         "long_name": "GT - 30 Hours: Identification & Assessment of Gifted Learners",
         "short_name": "GT - 30 Hours: Identification of Gifted",
         "classes": [
-        {
-        "class_id": 188,
-        "class_name": "GT - 30 Hours: Identification of Gifted Learners in Kindergarten",
-        "start_date": "2019-06-10T05:00:00.000Z",
-        "end_time": "1970-01-01T18:00:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T18:00:00.000Z"
-        }
-        ],
-        "date": "2019-06-10T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Monday"
-        }
-        ],
-        "end_date": "2019-06-10T05:00:00.000Z"
-        },
-        {
-        "class_id": 186,
-        "class_name": "GT - 30 Hours: Identification & Assessment of Gifted Learners",
-        "start_date": "2019-06-19T05:00:00.000Z",
-        "end_time": "1970-01-01T18:00:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T18:00:00.000Z"
-        }
-        ],
-        "date": "2019-06-19T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Wednesday"
-        }
-        ],
-        "end_date": "2019-06-19T05:00:00.000Z"
-        }
+            {
+                "class_id": 188,
+                "class_name": "GT - 30 Hours: Identification of Gifted Learners in Kindergarten",
+                "start_date": "2019-06-10T05:00:00.000Z",
+                "end_time": "1970-01-01T18:00:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T18:00:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-10T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Monday"
+                    }
+                ],
+                "end_date": "2019-06-10T05:00:00.000Z"
+            },
+            {
+                "class_id": 186,
+                "class_name": "GT - 30 Hours: Identification & Assessment of Gifted Learners",
+                "start_date": "2019-06-19T05:00:00.000Z",
+                "end_time": "1970-01-01T18:00:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T18:00:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-19T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Wednesday"
+                    }
+                ],
+                "end_date": "2019-06-19T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -213,48 +213,48 @@
         "long_name": "GT - 30 Hours: Differentiation for Gifted Learners",
         "short_name": "GT - 30 Hours: Differentiation for Gifted",
         "classes": [
-        {
-        "class_id": 191,
-        "class_name": "Differentiating Instruction with Menus",
-        "start_date": "2019-06-12T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-12T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Wednesday"
-        }
-        ],
-        "end_date": "2019-06-12T05:00:00.000Z"
-        },
-        {
-        "class_id": 192,
-        "class_name": "Differentiating with the CAP Process",
-        "start_date": "2019-06-13T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-13T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Thursday"
-        }
-        ],
-        "end_date": "2019-06-13T05:00:00.000Z"
-        }
+            {
+                "class_id": 191,
+                "class_name": "Differentiating Instruction with Menus",
+                "start_date": "2019-06-12T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-12T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Wednesday"
+                    }
+                ],
+                "end_date": "2019-06-12T05:00:00.000Z"
+            },
+            {
+                "class_id": 192,
+                "class_name": "Differentiating with the CAP Process",
+                "start_date": "2019-06-13T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-13T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Thursday"
+                    }
+                ],
+                "end_date": "2019-06-13T05:00:00.000Z"
+            }
         ]
     },
     {
@@ -262,27 +262,38 @@
         "long_name": "GT - 30 Hours: Creativity & Critical Thinking Strategies for Gifted Learners",
         "short_name": "GT - 30 Hours: Creativity & Critical Thinking",
         "classes": [
-        {
-        "class_id": 185,
-        "class_name": "GT - 30 Hours: Creativity & Critical Thinking Strategies for Gifted Learners",
-        "start_date": "2019-06-11T05:00:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z",
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "att_slots": [
-        {
-        "timeInterval": [
-        {
-        "start_time": "1970-01-01T14:30:00.000Z",
-        "end_time": "1970-01-01T22:30:00.000Z"
-        }
-        ],
-        "date": "2019-06-11T05:00:00.000Z",
-        "isSelected": true,
-        "day": "Tuesday"
-        }
-        ],
-        "end_date": "2019-06-11T05:00:00.000Z"
-        }
+            {
+                "class_id": 185,
+                "class_name": "GT - 30 Hours: Creativity & Critical Thinking Strategies for Gifted Learners",
+                "start_date": "2019-06-11T05:00:00.000Z",
+                "end_time": "1970-01-01T22:30:00.000Z",
+                "start_time": "1970-01-01T14:30:00.000Z",
+                "att_slots": [
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-11T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Tuesday"
+                    },
+                    {
+                        "timeInterval": [
+                            {
+                                "start_time": "1970-01-01T14:30:00.000Z",
+                                "end_time": "1970-01-01T22:30:00.000Z"
+                            }
+                        ],
+                        "date": "2019-06-13T05:00:00.000Z",
+                        "isSelected": true,
+                        "day": "Thursday"
+                    }
+                ],
+                "end_date": "2019-06-11T05:00:00.000Z"
+            }
         ]
     }
 ]
